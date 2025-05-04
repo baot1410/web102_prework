@@ -36,6 +36,7 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I was a bit rusty when working with DOM API and it took extra researching to figure out what was its purpose and required args
 
 
